@@ -1,0 +1,12 @@
+= Swift-Things Tap
+François Lamboley <fload@me.com>
+
+== How do I install these formulae?
+
+`brew install swift-things/tap/<formula>`
+
+Or `brew tap swift-things/tap` and then `brew install <formula>`.
+
+== Documentation
+
+`brew help`, `man brew` or check https://docs.brew.sh[Homebrew's documentation].
